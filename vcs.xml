@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/taifus/Android_Learning.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/czy1024/android_learning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\myproject\luna-android" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/myproject/luna-android" />
   </component>
 </application>
