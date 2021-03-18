@@ -2,7 +2,9 @@
   <component name="VisualizationTool">
     <option name="state">
       <GlobalState>
+        <option name="configurationSetName" value="CUSTOM" />
         <option name="firstTimeOpen" value="false" />
+        <option name="scale" value="0.3239364428498206" />
       </GlobalState>
     </option>
   </component>
